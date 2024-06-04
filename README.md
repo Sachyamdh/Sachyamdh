@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portofolio Website** & **Web-Extension**
 
-- 💬 Ask me about **React, NodeJs, Python, JavaScript**
+- 💬 Ask me about **React, NodeJs, Python, JavaScript, TypeScript**
   
 - Currently working in React web Extension as a  freelancer in **Upwork Talents**
 
